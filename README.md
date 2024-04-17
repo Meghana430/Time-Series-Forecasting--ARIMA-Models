@@ -1,6 +1,6 @@
 # Time-Series-Forecasting--ARIMA-Models
 
-Using R programming to forecast COVID-19 Cases for the state of Connecticut
+Using R programming to forecast COVID-19 Cases for the state of Connecticut, USA
 
 The purpose of this poroject is to learn ARIMA models and then apply that knowledge to forecast Covid cases.
 
