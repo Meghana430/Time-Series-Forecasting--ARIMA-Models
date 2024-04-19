@@ -6,11 +6,11 @@ The purpose of this poroject is to learn ARIMA models and then apply that knowle
 
 The time-series data on several US states on Covid cases are posted on Canvas --- See "2020_Covid_Data.xlsx" on the course page (Class2). You can use it to train/test your models. 
 
-Each member of your team is assigned to one US state --- see State_Assignment_Both_Sections.xlsx file in Class2 folder. 
+Each member of your team is assigned to one US state 
 
 Deliverable:
 
-Daily forecast from 1st Jan 2021 through 10 th Feb 2021.
+Daily forecast from 1st Jan 2021 through 10th Feb 2021.
 
  
 Suggestion:
