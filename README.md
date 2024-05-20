@@ -4,7 +4,7 @@ Using R programming to forecast COVID-19 Cases for the state of Connecticut, USA
 
 The purpose of this poroject is to learn ARIMA models and then apply that knowledge to forecast Covid cases.
 
-The time-series data on several US states on Covid cases are posted on Canvas --- See "2020_Covid_Data.xlsx" on the course page. You can use it to train/test your models. 
+The time-series data on several US states on Covid cases  --- See "2020_Covid_Data.xlsx" on the course page. You can use it to train/test your models. 
 
 Each member of your team is assigned to one US state 
 
