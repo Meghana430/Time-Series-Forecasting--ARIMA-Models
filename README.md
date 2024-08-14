@@ -7,7 +7,7 @@ This project focuses on using R programming to forecast COVID-19 cases for Conne
 The dataset used in this project is titled "2020_Covid_Data.xlsx" and contains time-series data on COVID-19 cases for several US states. Each team member is assigned one US state for analysis.
 
 ## 🚀 Deliverables
-- **Daily Forecast:** From January 1st, 2021 through February 10th, 2021 for COVID-19 cases in Connecticut.
+- **Daily Forecast:** From January 1st, 2021 through February 10th, 2021 for COVID-19 cases in Connecticut
 
 ## 🛠️ Technical Approach
 - **Modeling:** Fit an `auto.arima(p,d,q) x (P,D,Q)` model to the time-series data of COVID-19 cases for Connecticut.
