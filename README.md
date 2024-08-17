@@ -12,7 +12,7 @@ The dataset used in this project is titled "2020_Covid_Data.xlsx" and contains t
 ## 🛠️ Technical Approach
 - **Modeling:** Fit an `auto.arima(p,d,q) x (P,D,Q)` model to the time-series data of COVID-19 cases for Connecticut.
 - **Alternative Models:** Explore and fit alternative ARIMA models as deemed appropriate. Holt-Winters models may also be considered.
-- **Model Averaging:** Average the forecasts from the best model and a subset of good models using AICc or BIC weights.
+- **Model Averaging:** Average the forecasts from the best model and a subset of good models using AICc or BIC weights
 - **Forecast Horizon:** January 1st, 2021 through February 10th, 2021.
 
 ## 🧪 What I Have Done
